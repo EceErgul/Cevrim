@@ -1,0 +1,1 @@
+"""Çevrim core conversion logic. No GUI imports allowed in this package."""
